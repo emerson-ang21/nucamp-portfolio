@@ -1,0 +1,20 @@
+.navbar {
+    margin-bottom: 100px;
+    margin-top: 0px;
+}
+
+.jumbotron{
+    background-image: url(/img/jumbotron.jpg) ;
+    background-size: cover; 
+    height: 50vh;
+    width: 100%;
+    margin-bottom: 0;
+    text-align:center;
+}
+
+.jumbotron p{
+    margin-top: 5vh;
+    left:10px;
+    font-size:25px;
+    color: blue;
+   }
