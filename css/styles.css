@@ -18,3 +18,23 @@
     font-size:25px;
     color: blue;
    }
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+.lead {
+    text-align: center;
+}
+
+hr { 
+    display: block; 
+    overflow: hidden; 
+    border-style: inset;
+    border-width: 1px;
+}
+
